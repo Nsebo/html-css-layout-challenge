@@ -17,7 +17,7 @@ body {
 
 .hero-banner {
   background-color: #315fa4;
-  height: 987px;
+  height: 428px;
   margin-bottom: 20px;
 }
 
@@ -28,7 +28,7 @@ body {
 
 .column {
   background-color: #ca1dcd;
-  height: 220px;
+  height: 460px;
   margin-bottom: 20px;
   display: block;
 }
@@ -59,7 +59,7 @@ body {
   }
 
   .hero-banner .container {
-    height: 429px;
+    height: 420px;
     background-color: #315fa4;
   }
 
